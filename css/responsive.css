@@ -1,0 +1,57 @@
+@media (max-width: 1120px) {
+    .custom_nav-container .form-inline input {
+        display: none;
+    }
+}
+
+@media (max-width: 992px) {
+    .login_btn-contanier {
+        margin: 15px 0;
+    }
+    .hero_area {
+        height: auto;
+    }
+    .slider_section.position-relative {
+        padding: 120px 0;
+    }
+}
+
+@media (max-width: 768px) {
+    .slider_section .carousel-control-prev,
+    .slider_section .carousel-control-next {
+        display: none;
+    }
+    .slider_section .detail-box {
+        margin-top: 20px;
+        text-align: center;
+    }
+    .discount_section .detail-box {
+        text-align: center;
+    }
+    .footer_section p {
+        width: auto;
+    }
+}
+
+@media (max-width: 576px) {
+    .health_section .box {
+        width: auto;
+        margin-right: 5px;
+    }
+}
+
+@media (max-width: 480px) {}
+
+@media (max-width: 420px) {}
+
+@media (max-width: 360px) {
+    .top_contact-container {
+        display: none !important;
+    }
+}
+
+@media (min-width: 1200px) {
+    .container {
+        max-width: 1170px;
+    }
+}
