@@ -28,7 +28,7 @@ A complete, responsive online medical store and pharmacy management system built
 ## 🚀 How to Run Locally
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/TashilaDilshanK/medishop-php.git](https://github.com/TashilaDilshanK/medishop-php.git)
+   git clone https://github.com/TashilaDilshanK/medishop-php.git
 
 # 📊 System Architecture
 
